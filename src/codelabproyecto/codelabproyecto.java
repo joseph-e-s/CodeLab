@@ -1,9 +1,9 @@
 package codelabproyecto;
 
-import model.Estudiante;
-import model.Gestor;
-import model.Problema;
 import model.Profesor;
+import model.Estudiante;
+import model.Problema;
+import model.Gestor;
 
 public class codelabproyecto {
     public static void main(String[] args) {
@@ -39,3 +39,4 @@ public class codelabproyecto {
         }
     }
 }
+//fin
